@@ -1,5 +1,5 @@
 {
-  "name": "@maizzle/cli",
+  "name": "maizzle-cli",
   "version": "1.5.1",
   "description": "CLI tool for the Maizzle Email Framework",
   "license": "MIT",
@@ -42,7 +42,6 @@
     "fs-extra": "^10.0.0",
     "import-cwd": "^3.0.0",
     "inquirer": "^8.0.0",
-    "np": "*",
     "ora": "^5.1.0",
     "update-notifier": "^5.0.1"
   },
